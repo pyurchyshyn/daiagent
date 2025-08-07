@@ -43,9 +43,7 @@ The application is built with Python and FastAPI, and the frontend is a simple H
 
 Once you have uploaded a file, you can ask questions like:
 
-- "What is the average value of the 'Sales' column?"
-- "How many rows are there in the table?"
-- "Show me the top 5 rows with the highest 'Profit'."
-- "What is the total 'Revenue' for the 'North' region?"
+- "What was the average sales in June by region?"
+- "How many electronics items are in stock?"
 
 The assistant will provide a natural language answer and, if possible, the SQL query used to generate the answer.
