@@ -8,7 +8,7 @@ The application is built with Python and FastAPI, and the frontend is a simple H
 
 - **Backend**: FastAPI handles the file uploads and the chat logic. It uses `pandas` to parse the uploaded files and `openai` to interact with the LLM.
 - **Frontend**: The frontend is a simple chat interface built with HTML, CSS, and vanilla JavaScript. It is served directly by the FastAPI backend.
-- **LLM**: The application uses an LLM (e.g., GPT-4) to process natural language questions and generate answers and SQL queries.
+- **LLM**: The application uses an LLM (e.g., gpt-3.5-turbo) to process natural language questions and generate answers and SQL queries.
 
 ## How to run the application
 
